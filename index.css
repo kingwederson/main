@@ -1,0 +1,34 @@
+body{
+    background-color:mediumseagreen;
+    color:white;
+    font-family: 'Verdana';
+}
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+span.letreiro{
+    font-size: 64pt;
+}
+span.letreiro,h1,h2{
+    font-family: 'Odibee Sans';
+}
+h1{
+    font-size: 48pt;
+}
+h2{
+    font-size: 38pt;
+}
+div{
+    text-align: center;
+}
+div#cabecalho{
+    background-color:mediumseagreen;
+}
+div{
+    background-color::olive;
+}
+img.icon{
+    max-width: 64px;
+}
+p.central{
+    display: inline-block;
+    padding:20px;
+}
