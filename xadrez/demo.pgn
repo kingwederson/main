@@ -1,0 +1,11 @@
+[Event "Infinite_Power Test"]
+[Site "https://www.chess.com/forum/view/game-showcase/stockfish-7-vs-komodo-93"]
+[Date "2016.09.01"]
+[Round "1"]
+[White "Stockfish 7"]
+[Elo "3365"]
+[Black "Komodo 9.3"]
+[Elo "3324"]
+[Eco "B01"]
+[Result "1-0"]
+1. e4 d5 2. exd5 Cf6 3. d4 Bf5 4. Bb5+ c6 5. dxc6 Cxc6 6. Cf3 e6 7. O-O Be7 8. c4 O-O 9. Cc3 h6 10. Bxc6 bxc6 11. De2 Dc7 12. b3 Tfd8 13. Bb2 Tac8 14. Tad1 Ch5 15. De3 Cf4 16. Ce4 f6 17. Bc3 a5 18. Bd2 g5 19. De1 Te8 20. Cg3 Bg4 21. Bxa5 Da7 22. Bd2 Dxa2 23. Bxf4 gxf4 24. De4 Bxf3 25. Dg6+ Rf8 26. Dxh6+ Rf7 27. d5 cxd5 28. cxd5 Dc2 29. Td2 Dxb3 30. Dh7+ Rf8 31. Td3 Dxd3 32. Dxd3 fxg3 33. Dxf3 gxf2+ 34. Rh1 exd5 35. Dxf2 Tc4 36. De3 Te4 37. Dh6+ Rg8 38. h4 Bd8 39. Tf3 Te1+ 40. Rh2 Bc7+ 41. g3 Bd8 42. Ta3 Rf7 43. Dh7+ Rf8 44. Dg6 Be7 45. Ta7 Te5 46. Ta6 Bd8 47. h5 T8e6 48. Ta7 Te7 49. Dxf6+ Rg8 50. Dg6+
