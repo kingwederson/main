@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+table,th,td{
+    border: 1px solid white;
+}
+td.n{
+    background-color: blue;
+    color:white;
+}
